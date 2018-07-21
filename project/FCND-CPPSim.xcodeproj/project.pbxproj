@@ -47,6 +47,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9F08FF162103298E00FD7DBF /* QuadControlParams.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = QuadControlParams.txt; path = ../config/QuadControlParams.txt; sourceTree = "<group>"; };
 		DB076C8A202A34C500386052 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		DB31989E20334078008ACD56 /* Simulation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Simulation.txt; path = ../config/Simulation.txt; sourceTree = "<group>"; };
 		DB3198A320334078008ACD56 /* QuadPhysicalParams.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = QuadPhysicalParams.txt; path = ../config/QuadPhysicalParams.txt; sourceTree = "<group>"; };
@@ -122,7 +123,6 @@
 		DBD204F6203636AA00E0F55A /* 3_PositionControl.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 3_PositionControl.txt; path = ../config/3_PositionControl.txt; sourceTree = "<group>"; };
 		DBD204F7203636AA00E0F55A /* 4_Nonidealities.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 4_Nonidealities.txt; path = ../config/4_Nonidealities.txt; sourceTree = "<group>"; };
 		DBD204F8203636AA00E0F55A /* 5_TrajectoryFollow.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 5_TrajectoryFollow.txt; path = ../config/5_TrajectoryFollow.txt; sourceTree = "<group>"; };
-		DBD204F9203636AA00E0F55A /* QuadControlParams.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = QuadControlParams.txt; path = ../config/QuadControlParams.txt; sourceTree = "<group>"; };
 		DBD204FA203636AA00E0F55A /* 1_Intro.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 1_Intro.txt; path = ../config/1_Intro.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -147,10 +147,10 @@
 				DBD204F6203636AA00E0F55A /* 3_PositionControl.txt */,
 				DBD204F7203636AA00E0F55A /* 4_Nonidealities.txt */,
 				DBD204F8203636AA00E0F55A /* 5_TrajectoryFollow.txt */,
-				DBD204F9203636AA00E0F55A /* QuadControlParams.txt */,
 				DBD204F5203636AA00E0F55A /* Scenarios.txt */,
 				DB3198A320334078008ACD56 /* QuadPhysicalParams.txt */,
 				DB31989E20334078008ACD56 /* Simulation.txt */,
+				9F08FF162103298E00FD7DBF /* QuadControlParams.txt */,
 			);
 			name = config;
 			sourceTree = "<group>";
