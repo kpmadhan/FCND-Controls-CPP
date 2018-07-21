@@ -95,7 +95,8 @@ Implementation of [LateralPositionControl()](src/QuadControl.cpp) method
 <p align="center">
 <img src="animations/four.gif" width="500"/>
 </p>
-  ##### II) Yaw Control
+
+##### II) Yaw Control
 
 Implementation of [YawControl()](src/QuadControl.cpp) method
 
